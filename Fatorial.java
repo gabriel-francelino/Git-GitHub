@@ -1,5 +1,5 @@
 public class Fatorial{
-
+    // Versão iterativa do fatorial
     public int fat(int n){
         int resultado = 1;
         
